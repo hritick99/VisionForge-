@@ -4,9 +4,9 @@
 
 VisionForge is a powerful image analysis tool that leverages multiple state-of-the-art AI vision models (GPT-4o, Claude Sonnet 4.5, and Gemini Vision) to provide comprehensive insights about your images. Available as both a beautiful web application and a flexible Python library.
 
-![Python](2.png)
-![License](3.png)
-![Flask](https://img.shields.io/badge/flask-3.0+-red.svg)
+![Python](img\2.png)
+![License](img\3.png)
+![Flask](img\4.png)
 
 ## ✨ Features
 
@@ -33,7 +33,7 @@ VisionForge is a powerful image analysis tool that leverages multiple state-of-t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/visionforge.git
+git clone https://github.com/hritick99/VisionForge-.git
 cd visionforge
 
 # Install dependencies
