@@ -4,9 +4,9 @@
 
 VisionForge is a powerful image analysis tool that leverages multiple state-of-the-art AI vision models (GPT-4o, Claude Sonnet 4.5, and Gemini Vision) to provide comprehensive insights about your images. Available as both a beautiful web application and a flexible Python library.
 
-![Python](img\2.png)
-![License](img\3.png)
-![Flask](img\4.png)
+![Python](img/2.png)
+![License](img/3.png)
+![Flask](img/4.png)
 
 ## ✨ Features
 
